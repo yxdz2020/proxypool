@@ -7,26 +7,6 @@
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
-    
-# ss订阅
-- type: subscribess
-  options:
-    url: https://raw.githubusercontent.com/ssrsub/ssr/master/ss-sub
-    
-# ssr订阅
-- type: subscribessr
-  options:
-    url: https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub
-    
-# trojan订阅
-- type: trojanscribe
-  options:
-    url: https://raw.githubusercontent.com/ssrsub/ssr/master/trojan
-    
-# surge订阅
-- type: surgescribe
-  options:
-    url: https://raw.githubusercontent.com/ssrsub/ssr/master/Surge.conf
 
 # 网页模糊抓取
 - type: webfuzz
@@ -48,19 +28,7 @@
 - type: clash
   options:
     url: https://raw.githubusercontent.com/du5/free/master/file/0909/Clash.yaml
-    
-# clasha订阅
-- type: clasha
-  options:
-    url: https://raw.githubusercontent.com/ssrsub/ssr/master/Clash.yml
-    
-# clashb订阅
-- type: clashb
-  options:
-    url: https://raw.githubusercontent.com/mzh058/chenx/main/clash 
 
 # 某个网站抓取
 - type: web-freessrxyz
   options:
-    url: https://free-ss.site
- 
