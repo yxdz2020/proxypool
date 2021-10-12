@@ -28,7 +28,7 @@
   options:
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/Surge.conf
 
-# 订阅链接
+# clash格式订阅链接
 - type: clash
   options:
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/Clash.yml
@@ -58,7 +58,7 @@
 - type: web-freessrxyz
   options:
   
-# 订阅链接
+# clash格式订阅链接
 - type: clash
   options:
     url: https://raw.githubusercontent.com/mzh058/chenx/main/clash  
