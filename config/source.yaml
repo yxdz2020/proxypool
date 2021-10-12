@@ -7,31 +7,10 @@
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
-    
-# ss订阅链接
-- type: subscribess
-  options:
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/ss-sub
-
-# ssr订阅链接
-- type: subscribessr
-  options:
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub
-
-# trojan订阅链接
-- type: subscribetrojan
-  options:
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/trojan
-
-# surge订阅链接
-- type: subscribesurge
-  options:
     url: https://raw.githubusercontent.com/ssrsub/ssr/master/Surge.conf
-
-# clash格式订阅链接
-- type: clashsub
-  options:
-    url: https://raw.githubusercontent.com/ssrsub/ssr/master/Clash.yml
 
 # 网页模糊抓取
 - type: webfuzz
@@ -50,16 +29,14 @@
     url: https://fanqiangdang.com/forum-48-1.html
 
 # clash格式订阅链接
-- type: clashfile
+- type: clash
   options:
     url: https://raw.githubusercontent.com/du5/free/master/file/0909/Clash.yaml
+    url: https://raw.githubusercontent.com/ssrsub/ssr/master/Clash.yml
+    url: https://raw.githubusercontent.com/mzh058/chenx/main/clash 
 
 # 某个网站抓取
 - type: web-freessrxyz
   options:
   
-# clash格式订阅链接
-- type: clashmain
-  options:
-    url: https://raw.githubusercontent.com/mzh058/chenx/main/clash  
-    
+ 
