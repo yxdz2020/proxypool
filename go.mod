@@ -11,7 +11,7 @@ require (
 	github.com/antchfx/htmlquery v1.2.3 // indirect
 	github.com/antchfx/xmlquery v1.2.4 // indirect
 	github.com/antchfx/xpath v1.1.8 // indirect
-	github.com/cloudflare/cloudflare-go v0.13.5
+	github.com/cloudflare/cloudflare-go v0.30.0
 	github.com/ghodss/yaml v1.0.0
 	github.com/gin-contrib/cache v1.1.0
 	github.com/gin-gonic/gin v1.6.3
@@ -35,7 +35,6 @@ require (
 	github.com/sirupsen/logrus v1.7.0
 	github.com/temoto/robotstxt v1.1.1 // indirect
 	github.com/x-cray/logrus-prefixed-formatter v0.5.2
-	golang.org/x/sys v0.0.0-20201126233918-771906719818 // indirect
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
 	google.golang.org/appengine v1.6.6 // indirect
 	google.golang.org/protobuf v1.25.0 // indirect
